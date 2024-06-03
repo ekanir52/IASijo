@@ -1,1 +1,7 @@
-pdf2image pytesseract tesseract-ocr Levenshtein cv2 PIL
+pdf2image==1.17.0
+Pillow==10.3.0
+pypdf==4.2.0
+pytesseract==0.3.10
+tesseract-ocr
+python_Levenshtein==0.25.1
+opencv-python
