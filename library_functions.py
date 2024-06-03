@@ -166,20 +166,3 @@ def calculate_wer(ocr_text, ground_truth):
     distance = Levenshtein.distance(" ".join(ocr_words), " ".join(ground_truth_words))
     wer = distance / max(len(ocr_words), len(ground_truth_words))
     return wer
-
-
-# Test OCR accuracy by comparing OCR output with ground truth text
-# def test_ocr_accuracy(image, ground_truth_text):
-
-#     ocr_text = ocr_extract_text(image)
-    
-#     cer = calculate_cer(ocr_text, ground_truth_text)
-#     wer = calculate_wer(ocr_text, ground_truth_text)
-    
-#     return {
-#         'CER': cer,
-#         'WER': wer
-#     }
-
-# print(f"CER: {test_ocr_accuracy(image, ground_truth_text)['CER']:.2f}")
-# print(f"WER: {test_ocr_accuracy(image, ground_truth_text)['WER']:.2f}")
