@@ -1,1 +1,1 @@
-pdf2image pytesseract Levenshtein cv2 PIL
+pdf2image pytesseract tesseract-ocr Levenshtein cv2 PIL
