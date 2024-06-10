@@ -1,12 +1,36 @@
 from pdf2image import convert_from_path
 import pytesseract
 import Levenshtein
-from pytesseract import TesseractError
+# from pytesseract import TesseractError
 import cv2
-from PIL import Image, ImageEnhance, ImageFilter
+from PIL import Image #, ImageEnhance, ImageFilter
 from pypdf import PdfReader
 from pypdf.errors import PdfReadError
+import numpy as np
+import os
 
+
+def fclear():
+    # Removing all the temporary boxe image files
+
+    dir1 = './temp'
+    dir2 = './temp/boxs'
+    dir3 = './images'
+
+    items1 = os.listdir(dir1)
+    items2 = os.listdir(dir2)
+    items3 = os.listdir(dir3)
+
+    for i in [item for item in items1 if os.path.isfile(os.path.join(dir1, item))]:
+        os.remove(os.path.join(dir1, i))
+
+    for i in [item for item in items2 if os.path.isfile(os.path.join(dir2, item))]:
+        os.remove(os.path.join(dir2, i))
+
+    for i in [item for item in items3 if os.path.isfile(os.path.join(dir3, item))]:
+        os.remove(os.path.join(dir3, i))
+
+    return True
 
 def is_image(filepath):
     try:
@@ -29,10 +53,9 @@ def is_pdf(filepath):
 
     return True
 
-
 # convert a PDF to image with high DPI for better read
 def convert_pdf_to_image(cv_pdf):
-    pages = convert_from_path(cv_pdf, 300, poppler_path="./poppler-24.02.0/Library/bin")
+    pages = convert_from_path(cv_pdf, 400, poppler_path="./poppler-24.02.0/Library/bin")
     cv_images = []
     for k, page in enumerate(pages):
         image_path = f'./images/page_{k}.png'
@@ -44,73 +67,84 @@ def convert_pdf_to_image(cv_pdf):
 
 
 # (Using OpenCV) Preprocess image using techniques like : Grayscale conversion / Thresholding(Binarization) / Denoising / Resizing
-def pp_image(pp_images):
+def pp_image(pp_images, alpha, beta, dil_n_iteration, dil_rect_x_y):
+    
+    """
+    Preprocess the images of each page of the CV and return a list of boxes of the picture
 
-    list_pp_images=[]
+    param pp_images : list of the images
+    param alpha : contrast 1-3
+    param beta : brightness 0-100
+    param dil_n_iteration : number of iteration of the dilation
+    param dil_rect_x_y : morphology of the rectangle of dilation
+
+    return a list of boxes
+
+    """
+
+    dict_boxes={}
     k=0
 
     for pp_image in pp_images:
 
         image = cv2.imread(pp_image)
+        origin = cv2.imread(pp_image)
+
+        # apply grayscale
+        image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+        cv2.imwrite(f"./temp/gray{k}.png", image)
         
-        # Convert the image to grayscale
-        gray_image = cv2.cvtColor(image, 6)
-        
-        # Apply Gaussian blur to reduce noise and improve OCR accuracy
-        blurred_image = cv2.GaussianBlur(gray_image, (5, 5), 0)
-        
-        # Apply adaptive thresholding to binarize the image
-        threshold_image = cv2.adaptiveThreshold(blurred_image, 255, 
-                                                cv2.ADAPTIVE_THRESH_GAUSSIAN_C, 
-                                                cv2.THRESH_BINARY, 11, 2)
-        
+        # apply contrast
+        image = cv2.convertScaleAbs(image, alpha=alpha, beta=beta)
+        cv2.imwrite(f"./temp/contrast{k}.png", image)
+
+        # apply the gaussian blur
+        image = cv2.GaussianBlur(image, (7,7), 0)
+        cv2.imwrite(f"./temp/blur{k}.png", image)
+
+        # apply the threshold
+        image = cv2.threshold(image, 0, 255, cv2.THRESH_BINARY_INV+cv2.THRESH_OTSU)[1]
+        cv2.imwrite(f"./temp/thresh{k}.png", image)
+
+        # determine the kernel for the dilation 
+        kernal = cv2.getStructuringElement(cv2.MORPH_RECT, dil_rect_x_y)
+
+        # Dilate the image to show the boxes
+        image=cv2.dilate(image, kernal, iterations=dil_n_iteration)
+
+        cv2.imwrite(f"./temp/dilate{k}.png", image)
+
         # Resize the image to improve OCR accuracy
-        resized_image = cv2.resize(threshold_image, None, fx=2, fy=2, interpolation=cv2.INTER_LINEAR)
+        # image = cv2.resize(image, None, fx=2, fy=2, interpolation=cv2.INTER_LINEAR)
         
-        # Save the preprocessed image temporarily
-        preprocessed_image_path = f'./pp_images/preprocessed_image{k}.png'
+        # find the contours of the text boxes
+        cnts= cv2.findContours(image, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
+        cnts = cnts[0] if len(cnts)==2 else cnts[1]
+        cnts = sorted(cnts, key=lambda x: cv2.boundingRect(x)[0])
 
-        cv2.imwrite(preprocessed_image_path, resized_image)
 
-        list_pp_images.append(preprocessed_image_path)
-        k=+1
+        list_boxes = []
 
+        for c in cnts:
+            x, y, w, h = cv2.boundingRect(c)
+
+            roi = origin[y:y+h, x:x+w]
+            filename_roi = f"temp/boxs/{k}_roi_{y}.png"
+
+            cv2.imwrite(filename_roi, roi)
+
+            cv2.rectangle(origin, (x,y), (x+w, y+h), (255, 30, 26), 2)
+
+            list_boxes.append(cv2.boundingRect(c))
+        
+        cv2.imwrite(pp_image,origin)
+
+        list_boxes = sorted(list_boxes, key=lambda x: x[1])
+        dict_boxes[k] = list_boxes
+        k+=1
     
-    return list_pp_images
 
-
-
-# (using PIL) Preprocess image using techniques like : Grayscale conversion / Thresholding(Binarization) / Denoising / Resizing
-def pp_image2(pp_images):
-    
-    list_pp_images=[]
-    k=0
-    
-    for pp_image in pp_images:
-        image = Image.open(pp_image)
-
-        # Convert the image to grayscale
-        print(" Converting image to grayscale...")
-        gray_image = image.convert('L')
-        
-        # Appliquer un filtre de netteté
-        print(" Sharpening the image...")
-        sharp_image = gray_image.filter(ImageFilter.SHARPEN)
-        
-        # Améliorer le contraste
-        print(" Enhancing the contrast...")
-        enhancer = ImageEnhance.Contrast(sharp_image)
-        enhanced_image = enhancer.enhance(2)
-
-        # Appliquer un seuillage adaptatif
-        print(" Applying threshhold ...")
-        threshold_image = enhanced_image.point(lambda p: p > 128 and 255)
-        
-        threshold_image.save(fp=f'./pp_images/preprocessed_image{k}.png')
-        list_pp_images.append(threshold_image)
-
-    return list_pp_images
-
+    return dict_boxes
 
 
 # Extract text using OCR with specific config:
@@ -133,11 +167,10 @@ def ocr_extract_text(pp_images, config=r'--oem 3 --psm 6'):
             text = pytesseract.image_to_string(pp_img, lang='fra')
             cv_text += text + "\n"
             continue
-        # Tesseract custom configuration : r'--oem 3 --psm 6'
-        custom_config = r'--oem 3 --psm 6'
+
 
         # Perform OCR on the preprocessed image
-        text = pytesseract.image_to_string(image, lang='eng+fra', config=custom_config)
+        text = pytesseract.image_to_string(image, lang='eng+fra')
 
         cv_text += text + "\n"
 
