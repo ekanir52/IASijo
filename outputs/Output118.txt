@@ -1,0 +1,109 @@
+EL KABIRI
+12 Rue Lacaze
+Paris 75014
+(+33) 0758720766
+ekanir52@gmail.com
+Etudiant motivé en 3éme année du cycle ingénieur(BAC+5), je
+recherche un stage d'une durée de 6 mois en informatique génie
+logiciel.
+
+Doté d'une bonne capacité d'adaptation, je sais me montrer
+proactif et digne de confiance dans la réalisation de mes missions
+Développement en environnement Unix et Windows.
+
+Méthodes durables et solides d’archivage de données.
+
+Méthodes de développement logiciel.
+
+Programmation orientée objet.
+
+Langages de développement divers : Java - Python(ou R) - SQL/NoSQL -C.
+Connaissances en développement WEB ( Framework VueJS ).
+
+Adaptation rapide aux nouveaux environnements de développement.
+Competences
+Experience
+Standardisation des services métiers : SAVE ENERGIES - IDEX— Stage 6 mois
+Mars 2021 a Septembre 2021
+
+e Englober l'infrastructure existante avec des processus automatisés participant
+aux futurs développement de l’entreprise.
+o Développement d’une interface simplifiée.
+o Récupération et transfert de données via API/Web Scraping.
+o Calcul des prévisions de consommation et de production.
+e Outils : R(Selenium, Shiny, CURL), VBA, Powershell
+Projet d'infrastructure logicielle pour bâtiment intelligent — Projet en laboratoire
+Fablab
+
+Septembre 2020 a Février 2021
+
+e Développement d’une application web utilisant l'API TomTom(Traffic API) pour
+créer des feux de signalisation intelligents.
+
+e Outils : TOMTOM Traffic API, FrameWork VueJS, Microcontrolleur Arduino
+(NodeMCU ESP8266).
+HP SAS FRANCE, Grenoble — Stage Data Mining/Business Analyst
+Avril 2018 À Août 2018
+
+e Développement de tableaux de bord dynamiques soutenant l'entreprise.
+
+e Développement de modèles automatisés pour la prévision du FNUB (Financial
+Number of Units Billed).
+
+e Outils : Power BI, Qlikview, Microsoft Power Query/Excel, Powershell
+Projet GL — Projet Génie Logiciel
+Janvier 2018 A Février 2018
+
+e Développement d’un compilateur pour un langage similaire au Java (Déca)
+
+e Expérimentation des techniques agiles de développement: dirigé par les tests,
+intégration continue, programmation par paires.
+
+e Outils : Maven, ANTLR, Git, Cobertura, un IDE (NetBeans, Eclipse, ...)
+Formation
+Ecole Nationale Supérieure d’Informatique et de Mathématiques Appliquées
+(ENSIMAG), Grenoble
+
+e Etudes d'ingénierie numérique
+
+e Spécialisation dans l’Ingénierie des Systemes d'information.
+
+e Focalisation sur les méthodes de développement optimales et durables.
+e Etudes des mathématiques appliquées et statistiques en parallèle.
+Classes Préparatoires Moulay Youssef, Rabat
+e Branche Mathématiques-Physique approfondies.
+e Passage des concours d'entrée aux Grandes Écoles de France : 437ème au
+classement.
+e Grand Admis au Concours Marocain : 45ème au classement
+Associatif
+Association Ensimag Gaming — Responsable des partenariats externes, de la
+communication et vice-trésorier
+
+e Recherche de partenariats et organisation d'évènements sponsorisés.
+o Signature de partenariat avec Bloomberg et organisation de
+l'évènement des grandes écoles européennes CodeCon à l’Ensimag
+en Octobre 2017 et Octobre 2018.
+e Communication externe pour promouvoir les événements organisés par
+l'association.
+Autres
+Langues Maitrisées
+
+Francais — Courant
+
+Anglais — Courant
+
+Arabe — Courant
+
+Langue Maternelle : Berbère
+
+Centres d'intérêt
+
+e Natation (Nage libre)
+e Jeux vidéos
+e Voyage et culture du monde
+Points fort
+e Sens logique de l'analyse
+e Pertinent sur les solutions proposées
+e S’adapte facilement à tout environnement
+e Motivé pour créer de la valeur ajoutée
+e Ouvert à la critique constructive

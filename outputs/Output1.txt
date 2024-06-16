@@ -1,0 +1,115 @@
+Anton Authier
+Consultant informatique
+
+EXPÉRIENCES
+2021-current Analyste
+
+CGI- Paris, France 9
+Intervention sur divers projets informatique auprès de grands comptes
+clients. Contextes agile et cycle en V.
+Principales tâches effectuées:
+Recueil et interprétation du besoin client
+Initialisation technique de projets complexes (architecture)
+Développement (front/back)
+Leadi technique sur la mise en place des solutions
+Référent fonctionnel (Business Analyst)
+Mise en place de stratégies de test et de recette
+Intégration et livraison continue des applications
+Recrutement de nouveaux profils
+Création et suivi de KPI
+Gestion des risques: estimation, suivi, alertes
+Backup chef de projet
+Clients: Air France, RATP, ministère de la santé
+CGI Paris, France 9
+développeur
+Clients: RATP
+
+CGI
+
+Ap propos de moi
+De formation: technique
+d'ingénieur, j'ai évolué durant 6
+années dans lai réalisation de
+projets informatique à travers
+différents positionnements:
+développement logiciel
+(front/back), conception de
+solutions techniques
+complexes, livraison et
+intégration continue, rédaction
+de spécifications, expertise
+fonctionnelle, stratégie de
+recette, pilotage. gestion de
+projet. A la fois dans des
+contextes Agile et cycle en V
+Informations personnelles
+29 ans
+nationalité: français
+Permis B
+Spécialisations
+Suivi de projet Tech lead
+Développement Java/Spring
+DevOps. CI/CD Cloud
+Bases de données SQL,
+noSQL Méthodes agile
+Excel, Jira
+Centres d'intérêt
+Musique électronique Running
+Voyages
+
+2018-2021 Ingénieur technologies del l'information et de la communication
+
+CGI
+
+Réalisation de projets informatique pour des grands comptes
+Conception, implémentation, test et documentation de la solution
+Rédaction et maintenance des documentations techniques
+Rédaction des manuels utilisateurs et de la documentation technique
+Participation à lai recette, l'intégration et la mise en production
+
+Encadrement technique desjuniors
+
+2017 Stage laboratoire de recherche Télécommunications Visuelles
+UNIVERSIDAD POLITÉCNICA DE MADRID Madrid, Espagne 9
+Travaux de recherche dans le laboratoire universitaire GATV
+Rédaction publication scientifique "BLIND QUALITY ALGORITHM TO AN-
+ALYZE STREAMING VIDEO CONTENTS IN 5G NETWORKS"
+
+POUTÉCNICA
+
+FORMATION
+2015 Ecole d'ingénieurs
+3. ANS : ENSEA Cergy IIIL
+2013 DUTI Mesures Physiques
+2 ANS - Université Bordeaux III UB
+2012 Prépa intégrée
+1AN INSA Rennes IIIIL
+
+PROGRAMMATION
+
+Back Ce/Java/Spring/Spring Boot
+Front Angular/JS/HTML/CSS
+Autres Scripting Shell/Unix/Linux
+Database soL/ORcie/PostgesoLNasol
+PCF/AWS/Azure
+DevOps Jenkns/Bamboo/BRBucket
+Test Junit/XRay/Mockito/SonarQube
+Scheduler Control-M/Cron
+Version Git/GitLab/GitHub/SVN
+Perf Meter/LoadRunner/DSIDE
+Suivi Jira/Mantis
+
+Cloud
+
+https://t.1y/Vqy22
+
+LANGUES
+Anglais
+Espagnol
+Portugais
+
+Français langue maternelle
+
+Anton Authier 42 rue de la comète 9 Asnières-sur- Seine C 06.48.81.46.95
+
+anton.authier@gmail.com

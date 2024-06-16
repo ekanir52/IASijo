@@ -1,0 +1,260 @@
+Marwa MOHAMED ISMAIL
+marwamohamedismail.consulting@gmail.com
+https://www.linkedin.com/in/marwa-mohamed-ismail/
+1. Formations
+2015 — 2017 | Master Ingénierie des Systemes Complexes. UPEC (Université Paris-Est Créteil)
+2012 — 2015 | Licence Sciences Pour l'Ingénieur. UPEC (Université Paris-Est Créteil)
+2. Compétences
+Expériences Professionnelles
+
+Domaines d’expertises
+
+7 ans d’expérience en tant que développeuse
+Web Full Stack .NET Core dont :
+
+e 3 ans en Angular
+
+e 3 ans en React
+Conception et développement .NET
+Recueil de besoins
+
+Rédaction de documentation :
+
+o Expression de besoins
+
+o Rédaction de cahiers des charges
+
+o Rédaction de spécifications fonctionnelles et
+techniques
+Technologies
+Langues
+Anglais : professionnel
+Langages de programmation : .NET 4.8/ .NET
+6, C#, ASP.NET, .NET Core 2.2/3.1, MVC
+
+4/5/6, WebApi 2, EntityFramework 6,
+EntityFramework Core, Ling, HTML 5, CSS3,
+JavaScript, TypeScript, PowerShell, SQL, T-
+SQL.
+
+Bases de données : SQL Server 2014/2018,
+SQL Profiler, MySQL, Azure SQL Database
+
+Technologies: Ajax, Angular, ReactJS, jQuery,
+Bootstrap, Javascript, JSON, Typescript,
+Azure AD, TDD, GIT, TFS, Gitlab, AKS
+
+Méthode de gestion : Agile, SCRUM
+3. Expériences clients
+L'Oréal Paris (Mission) mai 2023 — aujourd’hui
+Consultante Full Stack .NET Angular / React
+Projet de refonte d’une application de gestion de pesée de robot.
+Suite au remplacement des robots de pesée de matières premières, ce projet consiste a refaire de
+l'application de gestion de pesée compatible avec les nouveaux robots. En tant que développeuse
+Full Stack et en collaboration un autre développeur, réalisation des tâches suivantes :
+
+Backend :
+e Mise en place de la clean architecture
+e Modélisation de la base de données avec Entity Framework Core (Code First)
+e Migration de données avec Entity Framework Core
+e Développement des webservices backend
+e Développement des « command » pour la partie écriture
+e Ajout des webservices dans l'injection des dépendances
+e Développement des tests unitaires avec xUnit
+e Déploiement avec Jenkins et AKS
+
+Frontend :
+e Développement des pages Razor MVC
+e Mise en place de l’architecture front en React Typescript
+e Développement des composants en React TS
+
+e Déploiement avec Jenkins et AKS
+
+e Développement en binôme
+
+e Revue de code
+Environnement : C#, .NET 6, xUnit, ASP.NET MVC, WebAPI, Typescript, React, NodeJS, HTML5,
+SCSS, Microsoft Azure SQL Database, SQL server 2018, Visual Studio 2019/2022, IIS, Gitlab,
+Swagger, Postman, AKS, Jenkins
+Projet de développement d’un comparateur
+Ce projet consiste à developper un nouveau comparateur suite au décommissionnement de l’ancien.
+En tant que développeuse Full Stack en mode solo, réalisation des tâches suivantes :
+
+Backend :
+e Développement des webservices backend
+e Déploiement avec Jenkins
+Frontend :
+e Développement des composants du comparateur en React TS
+
+e Déploiement avec Jenkins
+Environnement : C#, .NET 4.8, ASP.NET MVC, WebAPI, Typescript, React, NodeJS, HTML5,
+SCSS, SQL server 2018, Visual Studio 2019/2022, IIS, Gitlab, Swagger, Postman, Jenkins
+Projet de migration du mode d’authentification d’une api de NTLM vers OAuth2
+Ce projet consiste a migrer le mode d’authentification d'une api vers uvers OAuth2. En tant que
+développeuse Full Stack en mode solo, réalisation des tâches suivantes :
+Backend :
+e Configuration de l’api en mode OAuth2
+Environnement : C#, .NET 4.8, ASP.NET MVC, WebAPI, OWIN, Visual Studio 2019/2022, IIS,
+Gitlab, Swagger, Postman, Jenkins
+Itecor Paris août 2018 - janvier 2023
+
+Consultante Full Stack .NET Angular / React
+LexisNexis (Mission) novembre 2021 — janvier 2023
+
+Projet de refonte progressif du logiciel LexisPolyOffice (LP) en mode SaaS.
+Ce projet consiste a refaire de manière progressif le logiciel LP permettant de gérer l'activité juridique
+et judiciaire des cabinets d'avocats.
+
+En tant que développeuse Full Stack intégrée à une équipe de 6 personnes, réalisation des tâches
+suivantes :
+
+Backend :
+e Écriture / optimisation des procédures stockées sous SQL server
+e Développement des webservices backend du repository au contrôleur
+e Développement des tests unitaires
+e Passage en asynchrone de tous les webservices
+e Participation au développement du serveur d’authentification Identity server 4
+e Evolution du service Exchange de gestion des rendez-vous LP dans Outlook
+
+e Migration vers l’authentification moderne avec AzureAD pour la synchronisation
+Exchange
+
+e Utilisation et référencement de WCF services d'autres applications
+e Migration de .NET 4.6 a 4.8.2
+e Développement de microservices
+e Configuration de Datadog pour le monitoring
+Frontend :
+e Migration des pages Razor en ReactJS
+e Développement des hooks
+e Développement des tests unitaires
+e Développement des storybooks
+
+e Configuration de datadog pour le monitoring
+
+e Développement en binôme
+
+e Revue de code
+Environnement : C#, .NET (4.8.2 & Core 5), ASP.NET MVC, WebAPI, ReactJS, NodeJS, HTML5,
+SCSS, SQL server 2018, Visual Studio 2019/2022, TFS, Swagger, ExchangeAPI
+Projet de maintenance applicative du BackOffice (outil de gestion des modules de
+LexisPolyOffice)
+
+Backend :
+e Correction des bugs
+
+e Développement des évolutions
+Environnement : C#, ASP.NET MVC, HTML5, Javascript, CSS, Visual Studio 2019/2022, TFS
+Support applicatif de niveau 3
+e Traitement de tickets clients dans Salesforce,
+
+e Monitoring de l'application avec Datadog
+Environnement : Salesforce, TFS, Datadog
+Natixis (Mission) octobre 2018 — octobre 2021
+
+Projet de refonte du site web de l’équipe recherche de Natixis :
+Ce projet consiste a créer le nouveau site de l'équipe recherche de Natixis
+« https://www.research.natixis.com » en .NET Core 2.2 et Angular 7, puis d’assurer sa migration
+vers .NET Core 3.1 et Angular 8.
+
+La finalité de ce site est principalement de permettre aux clients de Natixis de chercher et d’afficher
+des publications telles que des études de marché.
+
+En tant que développeuse Full Stack intégrée à une équipe de 3 personnes, j'ai réalisé les tâches
+suivantes :
+
+Backend:
+e Modélisation de la base de données avec Entity Framework Core (Code First)
+e Migration de données avec Entity Framework Core
+e Développement des webservices backend du repository au contrôleur
+e Développement des « command » pour la partie écriture
+e Ajout des webservices dans l'injection des dépendances
+e Utilisation et référencement de WCF services d'autres applications
+e Requétage d'Elasticsearch
+e Requétage de l’API Youtube pour récupérer des vidéos de leur playlist
+e Requétage de l’API SoundCloud pour récupérer des podcasts de leur playlist
+e Mise en cache de appels API Youtube et SoundCloud
+e Implementation Web API backend avec Swagger (avec documentation)
+Frontend:
+e Développement des webservices frontend (relai)
+e Implementation Web API frontend avec Swagger (avec documentation)
+e Développement des components, layouts et routings Angular
+e Développement des services Angular
+e Développement de styles SCSS responsive
+Equipe :
+e Formation des nouveaux développeurs
+
+e Revue de code
+Environnement : C#, .NET (4.7 & Core 3.1), Angular 8, Nodejs, Typescript, HTML5, SCSS, SQL
+server 2014, Elasticsearch, IIS, Visual Studio 2019, Git, TFS2017, Swagger, Youtube API,
+SoundCloud API
+Projet de développement du site IMF de Natixis :
+Ce projet consiste à créer un nouveau site « https://imf.natixis.com » dédié à l’@vénement du FMI
+(Fonds Monétaire International) qui a eu lieu à Washington en 2019. Il s'agit d'une page vitrine avec 4
+documents téléchargeables.
+Frontend :
+e Développement des components, layouts, routings React,
+
+e Développement de styles SCSS responsive.
+Environnement : C#, .Net Core 3.1, React, Typescript, HTML5, SCSS, Visual Studio 2019, Git,
+TFS2017
+Projet d’évolution PYOD :
+A la suite de la refonte du site de l'équipe recherche de Natixis, j'ai participé à l'évolution de
+l'application PYOD permettant de publier des documents sur ce nouveau site. J’ai réalisé les tâches
+suivantes :
+Backend :
+e Développement des mises a jour des webservices
+
+e Développement des mises a jour des contrôleurs
+Frontend :
+e Développement des mises a jour des contrôleurs JS
+e Actualisation du modèle dans Razor
+
+e Développement des mises a jour des pages
+Environnement : C#, ASP.NET MVC Razor, EntityFramework 6, AngularJS, HTML5, CSS, Visual
+Studio 2019, Git, TFS2017
+Support applicatif de niveau 3 (des applications de l’équipe recherche) :
+Réponse aux demandes directes
+
+Maintenance évolutive/corrective
+Groupe Open octobre 2017 — juillet 2018
+
+Ingénieure études et développement .NET
+France Médias Monde (Mission) octobre 2017 — juillet 2018
+Projet TMA France Médias Monde (FMM) en mode agile SCRUM.
+
+Evolutions/corrections des applications du bus entreprise
+e Recueil et analyse des besoins du client
+e Organisation de ces besoins sous forme de tickets
+e Etude de larchitecture existante
+
+e Réalisation des évolutions des applications du bus entreprise, du chiffrage a la mise en
+production
+
+Maintenance corrective et évolutive des applications du bus entreprise
+e Maintenance des applications du bus
+
+e Traitement des demandes directes et ponctuelles du client
+Environnement : Windows 7, C#, VB, .NET 4.5, ASP.NET MVC, WCF, SQL Server 2014, Azure, Visual
+Studio 2015, ESB, SOAP, Itinerary Designer, BizTalk, YouTube, Dailymotion, XSLT, XML, Redmine,
+Business Rule Composer.
+Usercube avril 2017 — septembre 2017
+Ingénieure R&D
+Le projet consiste a mettre en place une application d’authentification Azure et un connecteur Office
+365 dans la solution Usercube (solution Web ASP.NET MVC) en mode Agile SCRUM.
+Analyse technique de l'existant
+
+Conception et développement d’une application Web permettant de s’authentifier à plusieurs
+Azure AD
+
+Restriction du nombre d’AD pouvant s’authentifier
+Proposition d’une solution pour la partie connecteur
+
+Conception et développement du connecteur gérant les comptes, groupes, licences/plans
+Office 365
+
+Modélisation des données pour la partie connecteur
+
+Intégration de différentes solutions dans l'application Usercube
+Environnement : Windows 10, C#, ASP.NET MVC 5, JSON, JQuery, API Office 365, IIS, OWIN, Azure
+ActiveDirectory, PowerShell, SQL, Office 365, Visual Studio, Windows PowerShell, Usercube (Application
+de la société), SCRUM, CSV, XAML, VSTS, Git.

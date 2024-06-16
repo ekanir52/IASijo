@@ -1,0 +1,151 @@
+Hakim JEMAI
+Développeur confirmé JAVA/Big data
+6 ans d'expériences
+E. JEMAI.HAKIM@GMAIL.COM
+T. +33 (0)6 58 17 61 12
+COMPETENCES
+Langages
+
+Frameworks et librairies
+
+Base De Données
+
+Big data
+
+Cloud
+
+Architecture
+
+Intégration et
+déploiement continues
+
+Méthodologies
+Java, Scala, Python, SQL, C
+Spring, Spring Boot, JSF, Hibernate, Mockito, Panda, Sklearn, Seaborn
+PostgreSQL, Oracle, Mysql, MongoDB, Hbase
+Spark, Hadoop, Hive, Kafka, Microsoft Event Hub, Microsoft Synaps
+Microsoft Azur, Kubernetes
+Micro-services, CQRS, Reactive
+Git, Jenkins, GoCD, Docker, XLdeploy
+Scrum, RAD
+Développeur confirmé JAVA/Big data | 6 ans d'expériences
+Langues
+Anglais (B2 toeic 810/990), Frangais
+Formations et certifications
+2020 a 2021
+
+2020
+
+2016 a 2018
+
+2014 a 2016
+¢ Certificat python pour la science de données
+IBM ET EDX
+¢ Certificat architecture réactive
+
+¢ Certificat Hadoop/Spark
+
+¢ Ingénieur en génie logiciel * ENSEIRB-MATMECA
+IBM ET LIGHTBEND
+
+IBM
+
+ENSEIRB-MATMECA
+(Bordeaux)
+ENSI (Tunis)
++ Ingénieur en sciences de l'informatique
+T. +33 (0)6 58 176112 - E. JEMAI.HAKIM@GMAIL.COM
+Développeur confirmé JAVA/Big data | 6 ans d'expériences
+Experiences
+OCIETE
+E
+
+S
+EE GENERALE
+Société Générale
+Ingénieur java/big data - Depuis Juin 2021
+Contexte :
+
+m Mise en place des évolutions dans dans la chaîne big data I2R Risk Analysis
+du projet FRTB.
+Missions :
+Développer les jobs spark qui assurent la normalisation de données (data
+quality).
+
+Développer les jobs spark qui assurent les calculs et appliquent les formules
+métiers selon un workflow fonctionnel.
+
+Développer les services et les apis java pour les composants de monitoring
+et notifications.
+Factoriser le code legacy.
+Environnement technique et fonctionnel :
+
+m= Java, Spring Boot, Spark, kafka, Event hub, Azure datalake, Kubernetes,
+Docker, Jenkins, XLdeploy, Hbase, Postgres sql, Angular, Stack ELK.
+T. +33 (0)6 58 17 61 12 - E. JEMAI.HAKIM@GMAIL.COM
+Développeur confirmé JAVA/Big data | 6 ans d'expériences
+BP NATIXIS
+
+BEYOND BANKING
+Natixis
+Ingénieur java/big data - Février 2020 a Mai 2021 (1 an et 3 mois)
+Contexte :
+
+= Ajout et déploiement des services dans l'application scénario manager du
+calcul des chocs et de la gestion des stress tests.
+Missions :
+Développer les services de gestion des stress tests.
+
+Créer une API REST pour exposer l'ensemble des services de scenario
+manager.
+
+Créer les Jobs jenkins et XIdeploy pour automatiser le déploiement dans les
+serveurs.
+Mettre en place la gateway et la sécurité applicative dans scenario manager.
+Ajouter le mode asynchrone dans application.
+Factoriser le code legacy et optimiser les requêtes.
+Participer au choix de l'architecture et à l'accompagnement des consultants.
+Environnement technique et fonctionnel :
+
+m Java, Scala, Spring Boot, Spring security, Spark, Hadoop, Hive, kafka, Axway
+gateway, Jenkins, XLdeploy, Ctrl-M.
+T. +33 (0)6 58 17 61 12 - E. JEMAI.HAKIM@GMAIL.COM
+Développeur confirmé JAVA/Big data | 6 ans d'expériences
+BNP PARIBAS
+BNP PARIBAS CIB
+Ingénieur Java/dev ops - Septembre 2018 a janvier 2020 (1 an et 4 mois)
+Contexte :
+
+= Développement et intégration des services dans l'application de pricing et de
+gestion des portefeuilles (FAST ET FAST 3).
+Missions :
+Développer des services et factoriser le code legacy dans l'application de
+pricing Fast.
+Développer des services de statistiques et de métriques métiers dans Fast.
+Créer les images docker et automatiser les jobs de déploiement.
+Développer et déployer des Micro-services de bout en bout dans FAST 3.
+Faire le release management.
+Environnement technique et fonctionnel :
+
+m Java 8, Architecture Micro-service, GoCD, Jenkins, Docker, Rancher,
+Kubernetes, Python, Netflix Conductor, MongoDB.
+T. +33 (0)6 58 17 61 12 - E. JEMAI.HAKIM@GMAIL.COM
+Développeur confirmé JAVA/Big data | 6 ans d'expériences
+Capgemini CSD Capgamini ®
+
+Stagiaire développeur full stack - Février 2018 à août 2018 (6 mois)
+Capgemini CSD
+Contexte :
+
+m Développement des services et une application android pour le système
+d'information MHIS(Maisons de champagne Moét & Chandon et krug a
+Bordeaux).
+Missions :
+Développer un client mobile android pour le système d'information MHIS.
+Développer les services backend en respectant l'architecture CQRS.
+Développer les IHM Web avec ExtJS.
+Environnement technique et fonctionnel :
+
+m Java 8, Javascript, Spring Boot, Android, ExtUS, Jenkins, CQRS, DDD,
+Angular.
+T. +33 (0)6 58 17 61 12 - E. JEMAI.HAKIM@GMAIL.COM

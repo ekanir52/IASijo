@@ -1,0 +1,148 @@
+EXPÉRIENCES PROFESSIONNELLES
+
+NADIA
+LASSOUED
+Ingénieur d'Études et
+Développement
+
+Du 12/01/2021
+A 30/06/2023
+(Vermeg Tunis)
+
+CACF
+
+Chef d'équipe et Architect solutions
+Etude et développement des nouvelles fonctionnalités.
+Conception et estimation des solutions techniques pour les
+nouvelles évolutions.
+Assistance et suivi des développements.
+Java8, Apache tomcat, SVN, Jenkins, Sonar, Maven3, SQL, SoapUl,
+Angular, Scrum
+Caceis
+Etude et développement des nouvelles fonctionnalités et
+correction des anomalies.
+Rédaction des documents d'analyses techniques et
+fonctionnelles.
+Participation aux workshops des nouveaux besoins.
+Conception des solutions techniques pour les nouvelles
+évolutions.
+- Migration de la version Palmyra.
+Assistance/suivi des développements.
+Revue de code et validation.
+Suivi des livraisons.
+Missions sur site d'Analyse et de Coordination avec les MOA.
+Documentation et support de formation.
+Java, Websphere, JIRA, SVN, Jenkins, teamcity, Maven3, SQL,
+soapUI, XSD, Scrum
+Palmyra
+R&D
+par le framework.
+des Tests.
+Wiki de Palmyra.
+Encadrement des stages.
+AXA Life Belgium
+Projet: Solife Integration
+et Solife :
+
+Du 01/01/2019
+AU 12/01/2021
+(Vermeg Tunis)
+
+7
+
+Du 01/04/2016
+AU 31/12/2018
+(VermegTunis)
+
+nadialosswed@gmoil.com
+
+Participation aux évolutions du framework.
+- Fixation des anomalies sur les différentes versions supportées
+Participation àl la création des plateformes d'automatisation
+Rédaction des documents d'analyses techniques.
+Rédaction des descriptions fonctionnelles et techniques sur le
+Java 8, java 7, Websphere, JIRA, JBoss, spring, hibernate, git, Jenkins,
+Sonar, Jprofile, Junit 4, XML, Maven3, MySQL, oracle
+Echange d'information entre les systèmes Domiciliation AXA
+Interfaces entre Solife et Axa : Génération des fichiers CSV à
+partir des extractions fournis par Solife, Transformation des
+fichiers XML fournis par Solife en fichiers cobol avec calcul et
+traitement des données définis par AXA
+Reporting : design, conception et développement des
+rapports pour le projet. Axa Happy Lifel Long Life.
+Missions sur site d'Analyse et de Coordination avec les MOA.
+JIRA, JBOSS, SoapUl, SVN, XML, iReport, Java 7, Sonar
+
+Du 01/10/2014
+AU 30/03/2016
+(Vermeg Tunis)
+
+Certifications
+Oracle Certified Associate, Java SE
+81 Programmer
+delivré en déc. 2020
+Oracle Certified Professional, Java
+SE 6 Programmer
+delivré en déc. 2015
+
+
+
+Stages
+Du 01/02/2014
+AU 30/05/2014
+(DISYCS à Sfax)
+Juin-Aout 2013
+(Allnet à
+Mahdia)
+2éme année
+(ENIS)
+
+Stage de fin d'étude
+Plateforme web pour la mise en correspondance entre
+patient et thérapeute avec partie mobile pour la localisation
+des positions des patients
+Méthodologie de travail : processus Scrum.
+Symfony2, php5, Bootstrap, Mysql, Ajax, jQuery, Sencha, CSS
+Stage d'été
+Création d'un: site d'annonce avec le Framework Cakephp
+et MySQL.
+Maitrise de la structure MVC du Framework
+Projet fin d'année : Gestion de processus d'orientation à
+I'ENIS avec ASP.net et Android.
+Projet Gestion des employés développé en C# avec Visual
+studio et Oracle.
+Stage d'été au service d'informatique de Télécom Mahdia.
+Découverte du processus de gestion des abonnés (ajout,
+
+Juin -Aout 2012
+(Télécom
+Mahdia)
+
+Suppression et réparation.).
+
+Cursus
+2014
+
+Diplôme National d'Ingénieur en
+Génie Informatique et
+Mathématiques Appliquées
+Ecole Nationale d'Ingénieurs de
+Sfax (ENIS) obtenu avec la mention
+Très Bien
+2011
+Concours national d'entrée aux
+cycles de formation d'ingénieurs
+Institut Préparatoire aux Etudes
+d'Ingénieurs de Monastir (IPEIM)
+spécialité technologie avec
+obtention du DPCU.
+2009
+Obtention de Baccalauréat,
+spécialité Techniques, Mention
+Très Bien.
+
+LANGUES
+Arabe: Maternelle
+Français: Lu, écrit et parlé.
+Anglais: Lu, écrit et] parlé.
+Allemand : Connaissances de base

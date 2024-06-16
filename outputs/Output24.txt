@@ -1,0 +1,132 @@
+Aymen Zarati >. >. ) )
+
+5 rue Olivier Noyer 75014 Paris Ingenieur senior etude et developpement JAVA
+Né le 18/04/1984
+
+Nationalité : Française
+
+Phone: 0615489198
+
+@ FORMATION ——SSeSSSSSSsSSSSSSSseseeSeSSSSSSSSSSSSSSFSFSsSS
+
+2007-2010 : Ecole d'ingénieur en Informatique Polytech’Nice Sophia, Sophia Antipolis
+(FRANCE)
+
+Ingénieur en Systemes Informatique spécialisé en Informatique Ambiante et Mobile (IAM)
+
+Master II en IFI (Ingénierie et Fondement de l'Informatique) (Assez Bien)
+2003-2006 : Institut Supérieur d’Informatique, option Technologies des Systemes
+d'Information et de Communication (TSIC).
+@ EXPERIENCES PROFFESIONNELLES
+2022 - 2023 : HSBC, Paris (France)
+
+Au sein de l’équipe informatique « Markets & Securities Services Operations Technology » à Paris, j'ai
+fait de la maintenance évolutive de la plateforme de référentiel de clients d'HBCE et de données
+reglementaires.
+
+J'ai réalisé l'analyse, le design, les développements, les tests et les demandes de mise en production
+de l'application.
+
+J'ai mis en place des nouvelles interfaces, adaptations aux problématiques règlementaires et de
+cybersécurité, ajout de fonctionnalités, correction d'anomalies, remplacement de composants
+d'infrastructure et montée de version logicielle, renforcement de la continuité de service, sécurisation
+et supervision du flux de données, automatisation des tests de non-régression
+
+Environnement technique : Java 8, Spring, JPA, Oracle, Weblogic, Tomcat, Jenkins, Sonar, Maven
+2019 - 2021 : BNP Paribas, Paris (France)
+
+Au sein du département Global Market IT / Client & Sales Facing, j'ai participé au projet iPrice :
+iPrice, une application web de pricing de produits dérivés pour le marché primaire, a destination des
+sales, traders, structureurs et des clients externes.
+
+Rédaction des spécifications techniques
+
+Architecture
+
+Chiffrage des développements
+
+Développement de nouveaux modules et de correctifs
+
+Réalisation des tests unitaires et d'intégration
+
+Support de niveau 3
+
+Responsable technique de release (rôle DevOps) : génération des packages de livraison,
+surveillance de tous les environnements de tests et de la chaîne d'intégration continue, évolution de
+la plateforme de build, ...
+
+Environnement technique : Java 8, Spring, JPA, Hibernate, REST, AngularJS, JSON, Javascript, CSS,
+JUnit, AssertJ, Mockito, SQL Server, Weblogic, Tomcat, Jenkins, Sonar, Bitbucket, Maven
+
+2017 - 2019 : Natixis, Paris (France)
+
+Au sein du département Risque de crédit de Natixis, j'ai été amené à travailler sur le projet B2C (Bâle
+to Crédit).
+
+Celui-ci a pour but d'évaluer les risques de crédit de l’entreprise en fonction de tous les actifs en cours
+en utilisant différent calcul de risque (Bale3, bale 4), ainsi qu'en simulant des scénarios « Stress »
+(calcul des risques dans le temps en fonction d’un scénario).
+
+Missions :
+
+e Analyse et conception
+
+e Développement de nouvelles fonctionnalités
+
+e Maintenance de l'application
+
+e Revue de code et optimisation
+
+e Support de production
+
+e Déploiement de l'application
+
+Technologies utilisées : Java 1.8, SQL, Perl, Bash, XSL, hibernate, Log4J, SyBase, IntelliJ, Git, Sonar,
+2014 - 2017: Société Générale, Paris (France)
+Chef de projet : Etudes fonctionnelles et études des opération SEPA .
+Je m'occupe de la coordination, des études et du développement des projets CMU (Contrôle des
+mouvements unitaires) et CCI (Contrôle d'accès des Canaux Internet).
+Les deux projets sont utilisés pour le renforcement de la sécurité de la banque à distance de la
+Société Générale. En complément des dispositifs mis en œuvre pour renforcer l’authentification des
+utilisateurs sur les canaux internet.
+e Définition des règles de gestion de CMU et rédiger l'expression de besoins du projet.
+e Chiffrage des évolutions.
+e Modélisation des bases de données.
+e Elaboration et validation du cycle de développement en V
+e Développement des modules fonctionnels de CCI et CMU.
+e Administration de bases Oracle en environnements de test unitaire et vérification fonctionnelle
+e Maintenance et évolution
+e Chiffrement (cryptage) des informations confidentielles.
+e Tracabilité des internautes.
+e Centralisation des questions sur le support technique et les évolutions sur un WIKI
+Technologies utilisées : C, java, Eclipse, Weblogic 9.2, ksh
+2012 -2014 : AMADEUS, Sophia Antipolis (France)
+Projet : SSP (Search, Shopping, Pricing).
+e Développement et support des moteurs de recherche de prix de billets d'avion (en C et JAVA JEE)
+2011-2012 : SPIE, Sophia Antipolis (France)
+Pojet : SAEIV (Système d'Aide à l'Exploitation, Information Voyageur).
+Ingénieur de réalisation au sein de l'équipe Serveur temps réel.
+2009-2010 : Trusted-Logic, Sophia Antipolis (France) - Apprentissage 12 mois
+Projet : PCD Professional & Consumer Devices.
+Ingénieur recherche et développement au sein de l’équipe PCD Professional & Consumer Devices.
+@ COMPETENCES
+Programmation JAVA JEE, HTML, XML, Python, Shell
+
+Modélisation UML, Design Patterns
+Base de données MySQL, Oracle
+Logiciels Eclipse, Visual Studio
+
+Systemes d’exploitation Windows, Linux, Android
+
+Gestion de projet Formation ORSYS, GANT/PERT Charts
+Langues Anglais (TOEIC 850), Arabe (Bilingue), Francais (Bilingue)
+Big Data : HADOOP DISTRIBUTED FILE SYSTEM , YARN, MAPREDUCE,
+
+NOSQL, HIVE, IMPALA, HBASE, SPARK, MACHINE LEARNING
+Aymen Zarati
+
+5 rue Olivier Noyer 75014 Paris
+Phone: 0615489198
+
+E-mail: aymen@zarati.com
+

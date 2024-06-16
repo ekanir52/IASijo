@@ -1,0 +1,170 @@
+Hammami
+
+Mohamed Rami
+Ingénieur Etudes et
+Développement Full Stack
+
+CONTACT
++33 787826926
+
+medramibammani@gnaicom
+56 rue hippolyte bisson 92500
+
+PARCOURS PROFESSIONNEL
+
+Tech Lead
+PWCI France
+
+2019 - 2023
+
+DIPLOMES
+des
+Ingénierie systèmes
+d'informations et d'aide à la
+décision
+Faculté des Sciences de Tunis
+2014. 2017
+Classes préparatoires Math-
+Physique
+Institut Préparatoire aux Etudes
+d'Ingénieur El Manar
+2012-2014
+
+Amélioration des processus d'audit au sein de l'entreprise, en mettant en place
+des solutions sophistiqués destinés à la gestion efficace des missions d'audit et
+qui facilitent la coordination, l'organisation et l'optimisation de ces missions.
+Apporter mon soutien à l'équipe de développement en contribuant à la
+conception et à la mise en ceuvre de diverses fonctionnalités.
+Exercer un rôle de relecteur de code, en veillant à la qualité des livrables.
+Conception et développement des fonctionnalités tant au niveau Backend
+
+Responsabilités :
+
+qu'au niveau Frontend.
+Migration MoveToCloud
+Environnement
+
+technique :
+
+Java 17, Spring, Hibernate, Angular, Maven, SQL Server, Transact-SQL,
+Java Melody, Veracode, SonarQube, Kubernetes, Docker, Azure Devops
+
+COMPETENCES
+Javal (Spring)
+Angular
+REST
+SQLI / NoSql
+AWS
+Azure devops
+Kubernetes
+
+Ingénieur Etudes et Développement Full Stack
+
+2018 - 2019
+
+Scorl I France
+
+Favoriser le développement des activités commerciales en mettant en place des
+outils innovants. Dans cette optique, le projet Helios a été créé pour offrir une
+vision claire et approfondie des risques découlant des portefeuilles.
+Nous visons ài fournir des informations précises et exploitables, permettant ainsi
+une meilleure prise de décision et une gestion proactive des risques.
+
+Responsabilités :
+qu'au niveau Frontend.
+Environnement technique :
+GIT,Sql Server
+
+Conception et développement des fonctionnalités tant au niveau Backend
+
+Java 8, SpringBoot, SpringCloud, Apache Spark, JPA, Angular, Jenkins, Maven,
+
+
+
+Ingénieur Etudes et Développement Full Stack
+
+2017 - 2018
+
+LANGUES
+Français: : écrit et oral : courant
+Anglais : écrit et oral : courant
+maternelle
+Arabe :
+
+Sofrecom I Tunisie
+
+Développement d'applications innovantes facilitant la gestion et 'acheminement
+des commandes, à travers les interfaces utilisateur frontales d'Orange, tout en
+assurant une restitution efficace des informations relatives aux parcs clients.
+Conception et développement des fonctionnalités tant au niveau Backend
+
+Responsabilités :
+qu'au niveau Frontend.
+Environnement technique :
+
+LOISIRS
+Football, Tennis, Kung fu, Ping
+pong, Ski, Piano
+
+Java/Jee, Spring 3, Oracle 11g, JPA/Hibernate, Apache Cxf, Jax-Rs,
+Soap/Rest, Struts2, GWT, Hudson, Maven, SVN
+
+Stage PFE
+Talan Tunisie
+société de gestion.
+
+2017 - 2017
+
+VIE ASSOCIATIVE
+Jeune Chambre Internationale
+Institut International de Débat
+Club des Logiciels Libres
+(Faculté des
+
+Conception et développement d'un outil décisionnel sophistiqué au sein d'une
+Cet outil présente les fonctionnalités suivantes :
+Importation de fichiers Excel contenant diverses mesures et indicateurs
+financiers, même avec des formats hétérogènes.
+Alimentation d'un entrepôt de données, permettant ainsi le
+informations conformément à un modèle de données conçu spécifiquement.
+Mise à disposition d'une interface d'administration permettant aux
+utilisateurs d'établir des seuils pour des indicateurs spécifiques et de recevoir
+Présentation d'interfaces utilisateur intuitives pour la génération de rapports
+
+des
+stockage
+
+sciences
+de Tunis)
+
+des notifications en cas de dépassement.
+et le suivi des évolutions de ces indicateurs.
+Environnement technique :
+
+Spring Boot, Sprin Batch, QlikSense, MarkLogic, Angular 2
+
+Stage d'été
+
+2016 - 2016
+
+CyberSoft Information Technologies I Istanbul, Turquie
+Déploiement d'un environnement de travail distribué, associé à l'exécution de
+tests sur des jeux de données de grande envergure, en utilisant des algorithmes
+
+d'apprentissage automatique.
+tâches multiples.
+précis et prédictifs.
+données.
+
+Planification et mise en ceuvre d'un environnement de travail distribué offrant ainsi
+une gestion optimisée des ressources et la possiblité d'exécuter simultanément des
+Utilisation de jeux de données volumineux pour réaliser des tests approfondis.
+Exploitation d'algorithmes d'apprentissage automatique afin d'obtenir des résultats
+Mise en place de Hadoop pour let traitement distribué des données.
+Exploitation de Mahout pour l'exploration, la classification et la recommandation de
+Utilisation de Hbase pour le stockage rapide et la récupération des données massives.
+Acquisition d'une expertise dans les technologies avancées de l'apprentissage
+
+automatique et de l'informatique distribuée.
+Environnement technique :
+Linux, Hadoop, Mahout , Hbase
